@@ -10,7 +10,7 @@ DevOps Engineer with proven expertise in implementing robust CI/CD pipelines, In
 
 - **Languages & Frameworks**: Python, HTML5, CSS3, Node.js
 - **Enterprise Systems**: TechnologyOne, Microsoft Intune, Veeam Backup
-- **Networking & Security**: TCP/IP, DNS, DHCP, Snort, NagiOS Cisco Packet Tracer, Wireshark
+- **Networking & Security**: TCP/IP, DNS, DHCP, Snort, NagiOS, Cisco Packet Tracer, Wireshark
 - **Virtualization**: VMware, Hyper-V
 - **Tools**: SolarWinds NCM, Datto RMM, GitHub
 
