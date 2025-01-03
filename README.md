@@ -16,7 +16,7 @@ DevOps Engineer with proven expertise in implementing robust CI/CD pipelines, In
 
 ## 🌟 Featured Projects
 
-- **Individual Projects**: TBC
+- **Individual Projects**: ML, Automation, Data Scraping and much more... 
 - **Network Security Audit Tool**: Python-based tool for network vulnerability scanning, deployed on Raspberry Pi.
 - **Live Streaming WebApp**: Developed using HTML5, CSS3, Node.js, and Socket.IO.
 
@@ -26,7 +26,7 @@ DevOps Engineer with proven expertise in implementing robust CI/CD pipelines, In
 - **Diploma & Advanced Diploma of Information Technology**: Australia Institute of Business and Technology
 
 ## 📜 Certifications
-- Google CyberSecurity Certifi
+- Google CyberSecurity Certified - Ongoing
 - Windows Server Administration - LinkedIn
 - Certified in Cyber Security (CC) - ISC²
 - Industrial Training Certification
