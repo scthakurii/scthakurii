@@ -1,4 +1,4 @@
-# Hi there, I'm Sameer Chand aka Sam JR👋
+# Hi there, I'm Sam JR👋
 
 Welcome to my GitHub profile! Here's a little about me:
 
